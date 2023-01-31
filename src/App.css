@@ -1,0 +1,53 @@
+body{
+  background-color: #30E3DF;
+}
+.app{
+  background-color: #E3F6FF;
+  min-height: 80vh;
+  width: 500px;
+  margin: 20px auto;
+  border-radius: 10%;
+}
+
+.crossed{
+  text-decoration: line-through 2px red;
+  background-color: #FCE22A;
+}
+
+ul,li{
+  list-style-type: none;
+  padding: 10px;
+  margin: 0;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+h1, p{
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.add{
+  background-color: #30E3DF;
+  margin-top: 15px;
+}
+
+.delete{
+  background-color: #BFACE2;
+  margin-bottom: 15px;
+}
+
+.btn{
+  padding: 10px;
+  border: none;
+  width: 70%;
+  color: bisque;
+  font-size: 16px;
+  font-family: 'Nunito Sans', sans-serif;
+}
+img{
+  border-radius: 20%;
+}
